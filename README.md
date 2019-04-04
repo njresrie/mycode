@@ -1,6 +1,6 @@
 # mycode
 Learning to track my code
-practicing best practice i hope
+--Apr 2019--
 ## Getting Started
 nothing to say yet
 ## Prerequisites
